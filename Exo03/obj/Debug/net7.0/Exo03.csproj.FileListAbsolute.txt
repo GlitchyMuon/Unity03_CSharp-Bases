@@ -1,0 +1,15 @@
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\bin\Debug\net7.0\Exo03.exe
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\bin\Debug\net7.0\Exo03.deps.json
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\bin\Debug\net7.0\Exo03.runtimeconfig.json
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\bin\Debug\net7.0\Exo03.dll
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\bin\Debug\net7.0\Exo03.pdb
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\obj\Debug\net7.0\Exo03.csproj.AssemblyReference.cache
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\obj\Debug\net7.0\Exo03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\obj\Debug\net7.0\Exo03.AssemblyInfoInputs.cache
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\obj\Debug\net7.0\Exo03.AssemblyInfo.cs
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\obj\Debug\net7.0\Exo03.csproj.CoreCompileInputs.cache
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\obj\Debug\net7.0\Exo03.dll
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\obj\Debug\net7.0\refint\Exo03.dll
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\obj\Debug\net7.0\Exo03.pdb
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\obj\Debug\net7.0\Exo03.genruntimeconfig.cache
+C:\Users\f.wang\Source\Repos\I3GAMES23-CSharp-Base\Exo03\obj\Debug\net7.0\ref\Exo03.dll

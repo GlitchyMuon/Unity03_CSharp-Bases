@@ -1,0 +1,15 @@
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\obj\Debug\net7.0\Exo_Casting.csproj.AssemblyReference.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\obj\Debug\net7.0\Exo_Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\obj\Debug\net7.0\Exo_Casting.AssemblyInfoInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\obj\Debug\net7.0\Exo_Casting.AssemblyInfo.cs
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\obj\Debug\net7.0\Exo_Casting.csproj.CoreCompileInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\bin\Debug\net7.0\Exo_Casting.exe
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\bin\Debug\net7.0\Exo_Casting.deps.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\bin\Debug\net7.0\Exo_Casting.runtimeconfig.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\bin\Debug\net7.0\Exo_Casting.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\bin\Debug\net7.0\Exo_Casting.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\obj\Debug\net7.0\Exo_Casting.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\obj\Debug\net7.0\refint\Exo_Casting.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\obj\Debug\net7.0\Exo_Casting.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\obj\Debug\net7.0\Exo_Casting.genruntimeconfig.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_Casting\obj\Debug\net7.0\ref\Exo_Casting.dll

@@ -1,0 +1,15 @@
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\bin\Debug\net7.0\Exo_after03_bonus.exe
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\bin\Debug\net7.0\Exo_after03_bonus.deps.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\bin\Debug\net7.0\Exo_after03_bonus.runtimeconfig.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\bin\Debug\net7.0\Exo_after03_bonus.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\bin\Debug\net7.0\Exo_after03_bonus.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\obj\Debug\net7.0\Exo_after03_bonus.csproj.AssemblyReference.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\obj\Debug\net7.0\Exo_after03_bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\obj\Debug\net7.0\Exo_after03_bonus.AssemblyInfoInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\obj\Debug\net7.0\Exo_after03_bonus.AssemblyInfo.cs
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\obj\Debug\net7.0\Exo_after03_bonus.csproj.CoreCompileInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\obj\Debug\net7.0\Exo_after03_bonus.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\obj\Debug\net7.0\refint\Exo_after03_bonus.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\obj\Debug\net7.0\Exo_after03_bonus.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\obj\Debug\net7.0\Exo_after03_bonus.genruntimeconfig.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo_after03_bonus\obj\Debug\net7.0\ref\Exo_after03_bonus.dll

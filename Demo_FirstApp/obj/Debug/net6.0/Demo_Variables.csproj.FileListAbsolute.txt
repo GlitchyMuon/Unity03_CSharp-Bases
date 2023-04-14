@@ -1,0 +1,15 @@
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\bin\Debug\net6.0\Demo_Variables.exe
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\bin\Debug\net6.0\Demo_Variables.deps.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\bin\Debug\net6.0\Demo_Variables.runtimeconfig.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\bin\Debug\net6.0\Demo_Variables.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\bin\Debug\net6.0\Demo_Variables.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\obj\Debug\net6.0\Demo_Variables.csproj.AssemblyReference.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\obj\Debug\net6.0\Demo_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\obj\Debug\net6.0\Demo_Variables.AssemblyInfoInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\obj\Debug\net6.0\Demo_Variables.AssemblyInfo.cs
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\obj\Debug\net6.0\Demo_Variables.csproj.CoreCompileInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\obj\Debug\net6.0\Demo_Variables.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\obj\Debug\net6.0\refint\Demo_Variables.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\obj\Debug\net6.0\Demo_Variables.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\obj\Debug\net6.0\Demo_Variables.genruntimeconfig.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_FirstApp\obj\Debug\net6.0\ref\Demo_Variables.dll

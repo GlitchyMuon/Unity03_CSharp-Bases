@@ -1,0 +1,15 @@
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\obj\Debug\net7.0\Demo_Conditionnel.csproj.AssemblyReference.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\obj\Debug\net7.0\Demo_Conditionnel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\obj\Debug\net7.0\Demo_Conditionnel.AssemblyInfoInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\obj\Debug\net7.0\Demo_Conditionnel.AssemblyInfo.cs
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\obj\Debug\net7.0\Demo_Conditionnel.csproj.CoreCompileInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\bin\Debug\net7.0\Demo_Conditionnel.exe
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\bin\Debug\net7.0\Demo_Conditionnel.deps.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\bin\Debug\net7.0\Demo_Conditionnel.runtimeconfig.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\bin\Debug\net7.0\Demo_Conditionnel.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\bin\Debug\net7.0\Demo_Conditionnel.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\obj\Debug\net7.0\Demo_Conditionnel.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\obj\Debug\net7.0\refint\Demo_Conditionnel.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\obj\Debug\net7.0\Demo_Conditionnel.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\obj\Debug\net7.0\Demo_Conditionnel.genruntimeconfig.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conditionnel\obj\Debug\net7.0\ref\Demo_Conditionnel.dll

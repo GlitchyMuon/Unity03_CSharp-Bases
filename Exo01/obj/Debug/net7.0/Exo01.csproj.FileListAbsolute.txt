@@ -1,0 +1,15 @@
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\bin\Debug\net7.0\Exo01.exe
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\bin\Debug\net7.0\Exo01.deps.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\bin\Debug\net7.0\Exo01.runtimeconfig.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\bin\Debug\net7.0\Exo01.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\bin\Debug\net7.0\Exo01.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\obj\Debug\net7.0\Exo01.csproj.AssemblyReference.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\obj\Debug\net7.0\Exo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\obj\Debug\net7.0\Exo01.AssemblyInfoInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\obj\Debug\net7.0\Exo01.AssemblyInfo.cs
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\obj\Debug\net7.0\Exo01.csproj.CoreCompileInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\obj\Debug\net7.0\Exo01.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\obj\Debug\net7.0\refint\Exo01.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\obj\Debug\net7.0\Exo01.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\obj\Debug\net7.0\Exo01.genruntimeconfig.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Exo01\obj\Debug\net7.0\ref\Exo01.dll

@@ -1,0 +1,15 @@
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\obj\Debug\net7.0\Demo_Conversion.csproj.AssemblyReference.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\obj\Debug\net7.0\Demo_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\obj\Debug\net7.0\Demo_Conversion.AssemblyInfoInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\obj\Debug\net7.0\Demo_Conversion.AssemblyInfo.cs
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\obj\Debug\net7.0\Demo_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\bin\Debug\net7.0\Demo_Conversion.exe
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\bin\Debug\net7.0\Demo_Conversion.deps.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\bin\Debug\net7.0\Demo_Conversion.runtimeconfig.json
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\bin\Debug\net7.0\Demo_Conversion.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\bin\Debug\net7.0\Demo_Conversion.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\obj\Debug\net7.0\Demo_Conversion.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\obj\Debug\net7.0\refint\Demo_Conversion.dll
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\obj\Debug\net7.0\Demo_Conversion.pdb
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\obj\Debug\net7.0\Demo_Conversion.genruntimeconfig.cache
+C:\Users\f.wang\source\repos\CSharp-Bases\Demo_Conversion\obj\Debug\net7.0\ref\Demo_Conversion.dll
