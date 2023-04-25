@@ -11,7 +11,7 @@ namespace Exo_bonus
         static void Main(string[] args)
         {
             Console.WriteLine("Calcul d'année bissextile ou non. Donne une année : ");
-            string year_str = Console.ReadLine()
+            string year_str = Console.ReadLine();
 
             int year;
             bool n_isConvert = int.TryParse(year_str, out year);

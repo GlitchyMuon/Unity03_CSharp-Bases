@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Demo_Conversion\\Demo_Conversion.csproj": {}
+    "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Demo_Conversion\\Demo_Conversion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Demo_Conversion\\Demo_Conversion.csproj": {
+    "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Demo_Conversion\\Demo_Conversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Demo_Conversion\\Demo_Conversion.csproj",
+        "projectUniqueName": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Demo_Conversion\\Demo_Conversion.csproj",
         "projectName": "Demo_Conversion",
-        "projectPath": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Demo_Conversion\\Demo_Conversion.csproj",
+        "projectPath": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Demo_Conversion\\Demo_Conversion.csproj",
         "packagesPath": "C:\\Users\\f.wang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Demo_Conversion\\obj\\",
+        "outputPath": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Demo_Conversion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BestApp4EverCon/1.0.0": {
+        "runtime": {
+          "BestApp4EverCon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BestApp4EverCon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

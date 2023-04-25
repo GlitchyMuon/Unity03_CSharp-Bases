@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Demo_FirstApp\\Demo_Variables.csproj",
+      "projectUniqueName": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Demo_FirstApp\\Demo_Variables.csproj",
       "projectName": "Demo_Variables",
-      "projectPath": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Demo_FirstApp\\Demo_Variables.csproj",
+      "projectPath": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Demo_FirstApp\\Demo_Variables.csproj",
       "packagesPath": "C:\\Users\\f.wang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Demo_FirstApp\\obj\\",
+      "outputPath": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Demo_FirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

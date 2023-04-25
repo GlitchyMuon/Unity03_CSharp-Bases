@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Exo_after03_bonus\\Exo_after03_bonus.csproj": {}
+    "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Exo_after03_bonus\\Exo_after03_bonus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Exo_after03_bonus\\Exo_after03_bonus.csproj": {
+    "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Exo_after03_bonus\\Exo_after03_bonus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Exo_after03_bonus\\Exo_after03_bonus.csproj",
+        "projectUniqueName": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Exo_after03_bonus\\Exo_after03_bonus.csproj",
         "projectName": "Exo_after03_bonus",
-        "projectPath": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Exo_after03_bonus\\Exo_after03_bonus.csproj",
+        "projectPath": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Exo_after03_bonus\\Exo_after03_bonus.csproj",
         "packagesPath": "C:\\Users\\f.wang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Exo_after03_bonus\\obj\\",
+        "outputPath": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Exo_after03_bonus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

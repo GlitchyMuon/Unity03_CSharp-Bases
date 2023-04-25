@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Exo_Casting\\Exo02.csproj": {}
+    "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Exo_Casting\\Exo02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Exo_Casting\\Exo02.csproj": {
+    "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Exo_Casting\\Exo02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Exo_Casting\\Exo02.csproj",
+        "projectUniqueName": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Exo_Casting\\Exo02.csproj",
         "projectName": "Exo02",
-        "projectPath": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Exo_Casting\\Exo02.csproj",
+        "projectPath": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Exo_Casting\\Exo02.csproj",
         "packagesPath": "C:\\Users\\f.wang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\f.wang\\source\\repos\\CSharp-Bases\\Exo_Casting\\obj\\",
+        "outputPath": "C:\\Users\\f.wang\\source\\repos\\Unity03_CSharp\\Unity03_CSharp-Bases\\Exo_Casting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

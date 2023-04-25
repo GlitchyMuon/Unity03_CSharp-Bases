@@ -9,13 +9,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo01", "Exo01\Exo01.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Conversion", "Demo_Conversion\Demo_Conversion.csproj", "{32574F3B-29DF-44AE-9D79-4BF71D269DB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo02", "Exo_Casting\Exo02.csproj", "{7B784F7B-7CBC-4713-AC9D-F2066E13D25A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo02", "Exo_Casting\Exo02.csproj", "{7B784F7B-7CBC-4713-AC9D-F2066E13D25A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Conditionnel", "Demo_Conditionnel\Demo_Conditionnel.csproj", "{C90D9755-BB32-48FE-8FA9-926F1AAEB3CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Conditionnel", "Demo_Conditionnel\Demo_Conditionnel.csproj", "{C90D9755-BB32-48FE-8FA9-926F1AAEB3CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo_after03_bonus", "Exo_after03_bonus\Exo_after03_bonus.csproj", "{0758C2F6-9096-4270-A1BE-1003F5D95977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo_after03_bonus", "Exo_after03_bonus\Exo_after03_bonus.csproj", "{0758C2F6-9096-4270-A1BE-1003F5D95977}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo03", "Exo03\Exo03.csproj", "{2C77A798-D04C-402B-BD8C-94BBD509404C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Operateurs", "Demo_\Demo_Operateurs.csproj", "{5B3FA2E3-E338-4665-80B0-E94A8DFF0D90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opérateurs_Exo01", "Opérateurs_Exo1\Opérateurs_Exo01.csproj", "{B4025215-6185-445F-BD05-D0852D13C9A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Démo_Substring", "Opérateurs_Exo2\Démo_Substring.csproj", "{44BF8340-09D1-467C-A7F6-670C4CDE23FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opérateurs_Exo02", "Opérateurs_Exo02\Opérateurs_Exo02.csproj", "{B444E7A5-FE7E-4B8D-BA40-43F5D692A15F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opérateurs_Exo03", "Opérateurs_Exo03\Opérateurs_Exo03.csproj", "{9B49CEFF-8069-46AC-96FA-DEF4E60B8759}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +61,26 @@ Global
 		{2C77A798-D04C-402B-BD8C-94BBD509404C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C77A798-D04C-402B-BD8C-94BBD509404C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C77A798-D04C-402B-BD8C-94BBD509404C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3FA2E3-E338-4665-80B0-E94A8DFF0D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3FA2E3-E338-4665-80B0-E94A8DFF0D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3FA2E3-E338-4665-80B0-E94A8DFF0D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3FA2E3-E338-4665-80B0-E94A8DFF0D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4025215-6185-445F-BD05-D0852D13C9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4025215-6185-445F-BD05-D0852D13C9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4025215-6185-445F-BD05-D0852D13C9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4025215-6185-445F-BD05-D0852D13C9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44BF8340-09D1-467C-A7F6-670C4CDE23FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BF8340-09D1-467C-A7F6-670C4CDE23FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BF8340-09D1-467C-A7F6-670C4CDE23FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BF8340-09D1-467C-A7F6-670C4CDE23FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B444E7A5-FE7E-4B8D-BA40-43F5D692A15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B444E7A5-FE7E-4B8D-BA40-43F5D692A15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B444E7A5-FE7E-4B8D-BA40-43F5D692A15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B444E7A5-FE7E-4B8D-BA40-43F5D692A15F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B49CEFF-8069-46AC-96FA-DEF4E60B8759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B49CEFF-8069-46AC-96FA-DEF4E60B8759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B49CEFF-8069-46AC-96FA-DEF4E60B8759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B49CEFF-8069-46AC-96FA-DEF4E60B8759}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

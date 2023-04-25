@@ -1,0 +1,15 @@
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\bin\Debug\net7.0\Opérateurs_Exo03.exe
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\bin\Debug\net7.0\Opérateurs_Exo03.deps.json
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\bin\Debug\net7.0\Opérateurs_Exo03.runtimeconfig.json
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\bin\Debug\net7.0\Opérateurs_Exo03.dll
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\bin\Debug\net7.0\Opérateurs_Exo03.pdb
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\obj\Debug\net7.0\Opérateurs_Exo03.csproj.AssemblyReference.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\obj\Debug\net7.0\Opérateurs_Exo03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\obj\Debug\net7.0\Opérateurs_Exo03.AssemblyInfoInputs.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\obj\Debug\net7.0\Opérateurs_Exo03.AssemblyInfo.cs
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\obj\Debug\net7.0\Opérateurs_Exo03.csproj.CoreCompileInputs.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\obj\Debug\net7.0\Opérateurs_Exo03.dll
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\obj\Debug\net7.0\refint\Opérateurs_Exo03.dll
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\obj\Debug\net7.0\Opérateurs_Exo03.pdb
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\obj\Debug\net7.0\Opérateurs_Exo03.genruntimeconfig.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Opérateurs_Exo03\obj\Debug\net7.0\ref\Opérateurs_Exo03.dll

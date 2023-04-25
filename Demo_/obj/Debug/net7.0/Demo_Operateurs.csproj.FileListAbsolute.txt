@@ -1,0 +1,15 @@
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\bin\Debug\net7.0\Demo_Operateurs.exe
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\bin\Debug\net7.0\Demo_Operateurs.deps.json
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\bin\Debug\net7.0\Demo_Operateurs.runtimeconfig.json
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\bin\Debug\net7.0\Demo_Operateurs.dll
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\bin\Debug\net7.0\Demo_Operateurs.pdb
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\obj\Debug\net7.0\Demo_Operateurs.csproj.AssemblyReference.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\obj\Debug\net7.0\Demo_Operateurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\obj\Debug\net7.0\Demo_Operateurs.AssemblyInfoInputs.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\obj\Debug\net7.0\Demo_Operateurs.AssemblyInfo.cs
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\obj\Debug\net7.0\Demo_Operateurs.csproj.CoreCompileInputs.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\obj\Debug\net7.0\Demo_Operateurs.dll
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\obj\Debug\net7.0\refint\Demo_Operateurs.dll
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\obj\Debug\net7.0\Demo_Operateurs.pdb
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\obj\Debug\net7.0\Demo_Operateurs.genruntimeconfig.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\Demo_\obj\Debug\net7.0\ref\Demo_Operateurs.dll

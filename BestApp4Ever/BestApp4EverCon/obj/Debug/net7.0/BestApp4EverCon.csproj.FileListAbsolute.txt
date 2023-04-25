@@ -1,0 +1,15 @@
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\bin\Debug\net7.0\BestApp4EverCon.exe
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\bin\Debug\net7.0\BestApp4EverCon.deps.json
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\bin\Debug\net7.0\BestApp4EverCon.runtimeconfig.json
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\bin\Debug\net7.0\BestApp4EverCon.dll
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\bin\Debug\net7.0\BestApp4EverCon.pdb
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\obj\Debug\net7.0\BestApp4EverCon.csproj.AssemblyReference.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\obj\Debug\net7.0\BestApp4EverCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\obj\Debug\net7.0\BestApp4EverCon.AssemblyInfoInputs.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\obj\Debug\net7.0\BestApp4EverCon.AssemblyInfo.cs
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\obj\Debug\net7.0\BestApp4EverCon.csproj.CoreCompileInputs.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\obj\Debug\net7.0\BestApp4EverCon.dll
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\obj\Debug\net7.0\refint\BestApp4EverCon.dll
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\obj\Debug\net7.0\BestApp4EverCon.pdb
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\obj\Debug\net7.0\BestApp4EverCon.genruntimeconfig.cache
+C:\Users\f.wang\source\repos\Unity03_CSharp\Unity03_CSharp-Bases\BestApp4Ever\BestApp4EverCon\obj\Debug\net7.0\ref\BestApp4EverCon.dll
