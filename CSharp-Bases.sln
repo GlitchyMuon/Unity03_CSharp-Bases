@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opérateurs_Exo01", "Opéra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Démo_Substring", "Opérateurs_Exo2\Démo_Substring.csproj", "{44BF8340-09D1-467C-A7F6-670C4CDE23FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opérateurs_Exo02", "Opérateurs_Exo02\Opérateurs_Exo02.csproj", "{B444E7A5-FE7E-4B8D-BA40-43F5D692A15F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opérateurs_Exo02", "Opérateurs_Exo02\Opérateurs_Exo02.csproj", "{B444E7A5-FE7E-4B8D-BA40-43F5D692A15F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opérateurs_Exo03", "Opérateurs_Exo03\Opérateurs_Exo03.csproj", "{9B49CEFF-8069-46AC-96FA-DEF4E60B8759}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opérateurs_Exo03", "Opérateurs_Exo03\Opérateurs_Exo03.csproj", "{9B49CEFF-8069-46AC-96FA-DEF4E60B8759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Boucles_While", "Demo_Boucles_While\Demo_Boucles_While.csproj", "{0DA41D6F-B15C-4B26-AE3D-CCACC3CB7C28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{9B49CEFF-8069-46AC-96FA-DEF4E60B8759}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B49CEFF-8069-46AC-96FA-DEF4E60B8759}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B49CEFF-8069-46AC-96FA-DEF4E60B8759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA41D6F-B15C-4B26-AE3D-CCACC3CB7C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA41D6F-B15C-4B26-AE3D-CCACC3CB7C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA41D6F-B15C-4B26-AE3D-CCACC3CB7C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA41D6F-B15C-4B26-AE3D-CCACC3CB7C28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

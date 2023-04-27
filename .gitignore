@@ -117,6 +117,7 @@ ipch/
 *.vsp
 *.vspx
 *.sap
+
 # Added some Visual Studio cache files | .vs folder grows unexpedtedly large due to .vsidx files for indexing !
 *.suo
 *.vsidx
