@@ -5,13 +5,23 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Entrez votre BBAN : ");
-            string? bban = Console.ReadLine();
-            string? two_last = bban?.Substring(10, 2);
-            string? be_concat = $"{two_last}{two_last}111400";
-            long modulo_be_concat = long.Parse(be_concat)% 97; //ne pas mettre dans la parenthèse car parenthèse prioritaire, donc il va tenter le modulo sur le string par encore parse en long !
-            long soustr_modulo_be_concat = 98 - modulo_be_concat;
+            string? bban_str = Console.ReadLine();
 
-            Console.WriteLine($"BE{soustr_modulo_be_concat}{bban}");
+            if (bban_str?.Length == 12 && long.TryParse(bban_str, out _))
+            {
+                string? two_last = bban_str?.Substring(10, 2);
+                string? be_concat = $"{two_last}{two_last}111400";
+                long be_concat_long = long.Parse(be_concat);
+                short modulo = (short)(be_concat_long % 97); //ne pas mettre dans la parenthèse car parenthèse prioritaire, donc il va tenter le modulo sur le string par encore parse en long !
+                short soustr_modulo_be_concat = (short)(98 - modulo); //le modulo va donner une valeur entre 1 et 96 
+            
+            Console.WriteLine($"IBAN : BE{soustr_modulo_be_concat}{bban_str}"); //si on utilise la string, les 0 restent, mais pas si on l'utilise converti, car le parse enlève les 0.
+            }
+            else
+            {
+                Console.WriteLine("BBAN non valide ...");
+                Console.WriteLine("BBAN non valide ...");
+            }
         }
     }
 }
