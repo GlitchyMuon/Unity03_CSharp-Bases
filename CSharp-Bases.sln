@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Boucles_While", "Demo_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Boucles_Do_While", "Demo_Boucles_Do_While\Demo_Boucles_Do_While.csproj", "{F9362B51-ABCF-49D3-BC4E-CC527AC3A12B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Boucles_For", "Demo_Boucles_For\Demo_Boucles_For.csproj", "{D03B21F9-8CF0-4766-BD7C-ED6096D95AB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{F9362B51-ABCF-49D3-BC4E-CC527AC3A12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9362B51-ABCF-49D3-BC4E-CC527AC3A12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9362B51-ABCF-49D3-BC4E-CC527AC3A12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03B21F9-8CF0-4766-BD7C-ED6096D95AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03B21F9-8CF0-4766-BD7C-ED6096D95AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03B21F9-8CF0-4766-BD7C-ED6096D95AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03B21F9-8CF0-4766-BD7C-ED6096D95AB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
