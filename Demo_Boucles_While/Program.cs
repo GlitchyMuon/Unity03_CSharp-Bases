@@ -1,12 +1,16 @@
-﻿namespace Demo_Boucles_While
+﻿using System.Text;
+
+namespace Demo_Boucles_While
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             #region Boucle bloquant
-            /*
-             * Console.WriteLine("Veuillez introduire un nombre (entre 1 et 10): ");
+
+            //Encodage en UTF8 non-obligatoire, seulement pour afficher les smileys dans la console !
+            Console.OutputEncoding = Encoding.UTF8;
+            /* Console.WriteLine("Veuillez introduire un nombre (entre 1 et 10): ");
             string? nb1_str = Console.ReadLine();
             bool isConvert = short.TryParse(nb1_str, out short nb1); //déclaré à l'intérieur donc out short nb1. Sinon au dessus : short nb1;
             
@@ -66,14 +70,14 @@
 
             Console.WriteLine("Entrez un nombre : ");
             string? num_lines_str = Console.ReadLine();
-            int num_lines = int.Parse(num_lines_str);
+            int limit = int.Parse(num_lines_str);
             int x = 0;
-            string letter = "A";
-            string letter_suite = "A";
+            string letter = "👻";
+            string letter_suite = "👻";
 
-            while (x < num_lines) 
+            while (x < limit) 
             {
-                // façon trouvé sur stackoverflow :
+                //Façon trouvé sur stackoverflow :
                 //string result = new String('A', x);
                 //Console.WriteLine(result);
 
@@ -81,7 +85,6 @@
                 letter += letter_suite; //si on fait letter += letter, il va doubler car on réaffecte
                 x++; 
             }
-            
             #endregion
         }
     }
