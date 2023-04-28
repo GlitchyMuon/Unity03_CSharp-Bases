@@ -57,11 +57,11 @@ namespace Exos_Bonus_Boucles_RNG
             //Avec boucle do ... while
 
             /*Console.Clear();
-            *Console.WriteLine("Bienvenu au jeu du Juste Prix !);
-            *Console.WriteLine("Indiquez le juste prix :");
-            *juste_prix = ushort.Parse(Console.ReadLine());
             *ushort juste_prix;
             *ushort proposition;
+            *Console.WriteLine("Bienvenu au jeu du Juste Prix !");
+            *Console.WriteLine("Indiquez le juste prix :");
+            *juste_prix = ushort.Parse(Console.ReadLine());
             *Console.Clear();
 
             do
@@ -96,10 +96,30 @@ namespace Exos_Bonus_Boucles_RNG
             # est un nombre venant d'une variable.
             Le 's' de "tentative" ne doit apparaitre que si nécessaire.*/
 
-            int juste_prix = RNG.Next(1, 101);
-            ushort count = 0;
+            /*int juste_prix = RNG.Next(1, 101);
+            ushort proposition;
+            ushort tries = 0;
 
+            Console.Clear();
+            Console.WriteLine("Bienvenu au jeu du Juste Prix !");
 
+            do
+            {
+                Console.WriteLine("Veuillez faire une proposition de prix :");
+                proposition = ushort.Parse(Console.ReadLine());
+                tries++;
+
+                if (proposition > juste_prix)
+                {
+                    Console.WriteLine("C'est moins.");
+                }
+                else if (proposition < juste_prix)
+                {
+                    Console.WriteLine("C'est plus.");
+                }
+            }
+            while (proposition != juste_prix);
+            Console.WriteLine($"Bravo, vous  avez deviné le Juste Prix en {tries} tentative{((tries > 1) ? "s" : "")} !");*/
             #endregion
 
 
@@ -122,9 +142,52 @@ namespace Exos_Bonus_Boucles_RNG
  
             • On propose au joueur de rejouer une partie!*/
 
+            Console.Clear();
+            Console.WriteLine("Bienvenu au jeu du Juste Prix !");
+            Console.WriteLine("Choissisez un niveau de difficulté (facile, moyen ou difficile): ");
+            string difficulty = Console.ReadLine();
+            int juste_prix;
+            ushort proposition;
+            ushort tries = 0;
+
+            switch((difficulty?.ToLower()))
+            {
+                case "facile":
+                    juste_prix = RNG.Next(1, 11);
+                    break;
+
+                case "moyen":
+                    juste_prix = RNG.Next(1, 101);
+                    break;
+                case "difficile":
+                    juste_prix = RNG.Next(1, 1001);
+                    break;
+                default:
+                    Console.WriteLine("Vous n'avez pas choisi de difficulté...\nDifficulté par défaut :... DIFFICILE !");
+                    juste_prix = RNG.Next(1, 1001);
+                    break;
+            }
+
+            do
+            {
+                Console.WriteLine("Veuillez faire une proposition de prix :");
+                proposition = ushort.Parse(Console.ReadLine());
+                tries++;
+
+                if (proposition > juste_prix)
+                {
+                    Console.WriteLine("C'est moins.");
+                }
+                else if (proposition < juste_prix)
+                {
+                    Console.WriteLine("C'est plus.");
+                }
+            }
+            while (proposition != juste_prix);
+            Console.WriteLine($"Bravo, vous  avez deviné le Juste Prix en {tries} tentative{((tries > 1) ? "s" : "")} !");
+
+
             #endregion
-
-
         }
     }
 }
