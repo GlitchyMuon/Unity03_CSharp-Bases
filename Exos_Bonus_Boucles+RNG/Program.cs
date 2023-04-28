@@ -96,18 +96,26 @@ namespace Exos_Bonus_Boucles_RNG
             # est un nombre venant d'une variable.
             Le 's' de "tentative" ne doit apparaitre que si nécessaire.*/
 
-            /*int juste_prix = RNG.Next(1, 101);
+
+            /*const int MAX = 100
+             * const int MIN = 1
+             * Console.Clear();
+            Console.WriteLine("Bienvenu au jeu du Juste Prix !");
+            ushort juste_prix = (ushort)RNG.Next(MAX)+MIN; //casting explicite. .Next attend -2million et +2million, mais je veux un nombre entre 1 et 101, donc je force ce casting.
+            // RNG.NEXT(MAX-MIN)+MAX. Faire cette formule si le minimum n'est pas 0 ou 1. Car si on veut commencer à 50 jusque 201 non-inclus (MAX=200). Sinon j'aurais 250 valeurs au lieu de 150 valeurs
+
             ushort proposition;
             ushort tries = 0;
-
-            Console.Clear();
-            Console.WriteLine("Bienvenu au jeu du Juste Prix !");
+            string message = "Joueur ! Quel est selon toi le Juste Prix ?"
 
             do
             {
-                Console.WriteLine("Veuillez faire une proposition de prix :");
-                proposition = ushort.Parse(Console.ReadLine());
-                tries++;
+                do //double DoWhile ajouté à la correction : permet d'être sûr que le joueur n'entre pas un nombre en dehors de 1 et 100.
+                {
+                    Console.WriteLine(message);
+                    proposition = ushort.Parse(Console.ReadLine());
+                    message = "Veuillez entrer une proposition entre 1 et 100 :"
+                } while (proposition < MIN || proposition > MAX); 
 
                 if (proposition > juste_prix)
                 {
@@ -117,9 +125,10 @@ namespace Exos_Bonus_Boucles_RNG
                 {
                     Console.WriteLine("C'est plus.");
                 }
+                tries++;
             }
             while (proposition != juste_prix);
-            Console.WriteLine($"Bravo, vous  avez deviné le Juste Prix en {tries} tentative{((tries > 1) ? "s" : "")} !");*/
+            Console.WriteLine($"Bravo, vous  avez deviné le Juste Prix en {tries} tentative{((tries > 1)? "s" : "")} !");*/
             #endregion
 
 
