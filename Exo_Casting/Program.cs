@@ -10,8 +10,8 @@
             Console.WriteLine("Encodez un deuxième nombre entier : ");
             string n2_str = Console.ReadLine();
 
-            //int n1_parse = int.Parse(n1);
-            //int n2_parse = int.Parse(n2);
+            //int n1_parse = int.Parse(n1_str);
+            //int n2_parse = int.Parse(n2_str);
 
             //Console.WriteLine($"Les nombres convertis sont : {n1_parse} et {n2_parse} de type {n1_parse.GetType()} et {n2_parse.GetType()}");
             //Console.WriteLine($"La somme est {n1_parse + n2_parse} ");

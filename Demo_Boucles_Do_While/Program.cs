@@ -28,6 +28,7 @@ namespace Demo_Boucles_Do_While
             //L'utilisateur a 3 trentatives.
             //Si une tentative est correcte, on arrête le programme en le saluant, sinon on lui demande de réessayer.
             //Faites-le avec une boucle "do... while".
+
             const string PASSWORD = "Cshark";
             ushort limit = 3; //commence à partir de 0, un short inclus les négatifs.
             string password_try; //déclarer la variable à l'avance car ne pourra pas être utilisé dans d'autres while ou if, car aurait été déclarer dans la boucle
@@ -51,7 +52,6 @@ namespace Demo_Boucles_Do_While
                 Console.WriteLine("Trop de tentatives ont échoués !");
             }
             #endregion
-
         }
     }
 }
