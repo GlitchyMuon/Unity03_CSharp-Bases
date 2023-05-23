@@ -45,9 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Collections", "Demo_Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_TableauScores", "Demo_TableauScores\Demo_TableauScores.csproj", "{24C6CCE8-D21A-4ED3-9261-207E2DF8D55B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Tableau", "Demo_Tableau\Demo_Tableau.csproj", "{3DE47AB6-E4F2-4AF3-AB54-D04D0E4A2A12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Tableau", "Demo_Tableau\Demo_Tableau.csproj", "{3DE47AB6-E4F2-4AF3-AB54-D04D0E4A2A12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos_Tableaux", "Exos_Tableaux\Exos_Tableaux.csproj", "{AC143A65-FDDE-44C0-AF3D-A5415935CCA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exos_Tableaux", "Exos_Tableaux\Exos_Tableaux.csproj", "{AC143A65-FDDE-44C0-AF3D-A5415935CCA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Dictionary", "Demo_Dictionary\Demo_Dictionary.csproj", "{C5777F2A-E821-4408-9D30-2AF1FFC7A6AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{AC143A65-FDDE-44C0-AF3D-A5415935CCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC143A65-FDDE-44C0-AF3D-A5415935CCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC143A65-FDDE-44C0-AF3D-A5415935CCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5777F2A-E821-4408-9D30-2AF1FFC7A6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5777F2A-E821-4408-9D30-2AF1FFC7A6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5777F2A-E821-4408-9D30-2AF1FFC7A6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5777F2A-E821-4408-9D30-2AF1FFC7A6AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
