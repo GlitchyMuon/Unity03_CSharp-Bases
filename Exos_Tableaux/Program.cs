@@ -94,6 +94,52 @@ namespace Exos_Tableaux
             }*/
 
             #endregion
+            #region Exo 4 - Correction
+            //Création du tableau
+            /*string[] students = { "Alexia", "Loriane", "Naël", "Sonia", "Tonia", "Audrey", "Cécile", "Carol", "Hafsa", "Feryel" };
+
+            //inversion du tableau
+            for (int i = 0; i < students.Length / 2; i++)
+            {
+                string temp = students[i];
+                students[i] = students[students.Length - 1 - i];
+                students[students.Length - 1 - i] = temp;
+            }
+
+            //affichage du tableau
+            foreach (string student in students)
+            {
+                Console.WriteLine(student);
+            }
+*/
+            #endregion
+            
+            #region Exo 5 - Correction
+            /*int[] tab = { 5, 3, 8, 1, 123, 5, 9};
+
+            bool sorted = false;
+
+            for (int turn = 0; !sorted; turn++)
+            {
+                sorted = true;
+                for (int i = 0; i < tab.Length-1-turn; i++)
+                {
+                    if (tab[i] > tab[i+1])
+                    {
+                        int temp = tab[i];
+                        tab[i] = tab[i+1];
+                        tab[i+1] = temp;
+                        sorted = false;
+                    }
+                }
+            }
+
+            foreach (int number in tab)
+            {
+                Console.WriteLine(number);
+            }*/
+            #endregion
+
 
             #region Exo 7
             /*Réalisez un algorithme nous permettant de déplacer un pion dans un tableau de 10 éléments. Au début, le pion se trouve dans la première case du tableau. Nous pouvons ensuite le déplacer par la gauche (g), par la droite (d) ou de stopper l'algorithme (q).*/
