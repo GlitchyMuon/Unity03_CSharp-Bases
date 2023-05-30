@@ -40,11 +40,11 @@ namespace Demo_Dictionary
             //Ou
             //List<int> ma_liste = new List<int>() {12, 15, 18, 24};
 
-            List<int> nb_croissant = new List<int>() { 1, 3, 4, 5, 5, 6 };
+            /*List<int> nb_croissant = new List<int>() { 1, 3, 4, 5, 5, 6 };
             string temp;
 
             Console.WriteLine("Veuillez entrer un nombre à rajouter à la liste :");
-            int nb_ajout = int.Parse(Console.ReadLine());
+            int nb_ajout = int.Parse(Console.ReadLine());*/
 
             /*if (nb_ajout >= nb_croissant[nb_croissant.Count - 1]) //nombre à la fin de ma liste
             {
@@ -69,7 +69,7 @@ namespace Demo_Dictionary
 
             //Avec Insert();
 
-            int position = 0;
+            /*int position = 0;
             bool found = false;
 
             for (int i = 0; i <nb_croissant.Count && !found; i++)
@@ -84,13 +84,15 @@ namespace Demo_Dictionary
             else 
             {
                 nb_croissant.Add(nb_ajout);
-            }
+            }*/
 
 
             #endregion
 
             #region Exo 11
             /*Réalisez un algorithme dans lequel nous devons rechercher une valeur (entrée par l'utilisateur) dans une liste d'entiers. Si on trouve cette valeur, nous devons la supprimer de la liste.*/
+
+
             #endregion
         }
     }

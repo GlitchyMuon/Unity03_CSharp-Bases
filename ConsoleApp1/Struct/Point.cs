@@ -9,5 +9,6 @@ namespace Exo_Structure.Struct
     internal struct Point
     {
         public int X; public int Y;
+        //on  peut une variable nulle si : int?, string? <NomStructure>?
     }
 }

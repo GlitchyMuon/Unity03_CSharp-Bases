@@ -55,7 +55,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Structure", "Demo_Stru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo_Structure", "ConsoleApp1\Exo_Structure.csproj", "{673AD136-B462-4D1A-92D7-99DE918323B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo2_Structure", "Exo2_Structure\Exo2_Structure.csproj", "{A9338806-F60A-453D-867C-02B419B3CA89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo2_Structure", "Exo2_Structure\Exo2_Structure.csproj", "{A9338806-F60A-453D-867C-02B419B3CA89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_struct_révision", "Demo_struct_révision\Demo_struct_révision.csproj", "{59590E9C-8004-4D2E-A26E-FFB79746B184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo_Methode01_Celsius-Fahrenheit", "Exo_Methode01_Celsius-Fahrenheit\Exo_Methode01_Celsius-Fahrenheit.csproj", "{C48F37BB-3F15-448E-9C28-085E89375ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo_StructuresMethodes_ShowInventory", "Exo_StructuresMethodes_ShowInventory\Exo_StructuresMethodes_ShowInventory.csproj", "{20194828-64D2-4682-B38A-C6FB10F04045}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +177,18 @@ Global
 		{A9338806-F60A-453D-867C-02B419B3CA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9338806-F60A-453D-867C-02B419B3CA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9338806-F60A-453D-867C-02B419B3CA89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59590E9C-8004-4D2E-A26E-FFB79746B184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59590E9C-8004-4D2E-A26E-FFB79746B184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59590E9C-8004-4D2E-A26E-FFB79746B184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59590E9C-8004-4D2E-A26E-FFB79746B184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48F37BB-3F15-448E-9C28-085E89375ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48F37BB-3F15-448E-9C28-085E89375ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48F37BB-3F15-448E-9C28-085E89375ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48F37BB-3F15-448E-9C28-085E89375ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20194828-64D2-4682-B38A-C6FB10F04045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20194828-64D2-4682-B38A-C6FB10F04045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20194828-64D2-4682-B38A-C6FB10F04045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20194828-64D2-4682-B38A-C6FB10F04045}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
