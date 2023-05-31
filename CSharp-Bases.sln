@@ -57,11 +57,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo_Structure", "Exo_Struct
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo2_Structure", "Exo2_Structure\Exo2_Structure.csproj", "{A9338806-F60A-453D-867C-02B419B3CA89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_struct_révision", "Demo_struct_révision\Demo_struct_révision.csproj", "{59590E9C-8004-4D2E-A26E-FFB79746B184}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_struct_révision", "Demo_struct_révision\Demo_struct_révision.csproj", "{59590E9C-8004-4D2E-A26E-FFB79746B184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo_Methode01_Celsius-Fahrenheit", "Exo_Methode01_Celsius-Fahrenheit\Exo_Methode01_Celsius-Fahrenheit.csproj", "{C48F37BB-3F15-448E-9C28-085E89375ED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo_Methode01_Celsius-Fahrenheit", "Exo_Methode01_Celsius-Fahrenheit\Exo_Methode01_Celsius-Fahrenheit.csproj", "{C48F37BB-3F15-448E-9C28-085E89375ED1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo_StructuresMethodes_ShowInventory", "Exo_StructuresMethodes_ShowInventory\Exo_StructuresMethodes_ShowInventory.csproj", "{20194828-64D2-4682-B38A-C6FB10F04045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo_StructuresMethodes_ShowInventory", "Exo_StructuresMethodes_ShowInventory\Exo_StructuresMethodes_ShowInventory.csproj", "{20194828-64D2-4682-B38A-C6FB10F04045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Enum", "Demo_Enum\Demo_Enum.csproj", "{C6FBD487-422F-453F-A346-2E2B4DC7C52D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo_Enum", "Exo_Enum\Exo_Enum.csproj", "{41E18CD9-A3D9-465A-8265-40ACE645DC2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +193,14 @@ Global
 		{20194828-64D2-4682-B38A-C6FB10F04045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20194828-64D2-4682-B38A-C6FB10F04045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20194828-64D2-4682-B38A-C6FB10F04045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6FBD487-422F-453F-A346-2E2B4DC7C52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FBD487-422F-453F-A346-2E2B4DC7C52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FBD487-422F-453F-A346-2E2B4DC7C52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FBD487-422F-453F-A346-2E2B4DC7C52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E18CD9-A3D9-465A-8265-40ACE645DC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E18CD9-A3D9-465A-8265-40ACE645DC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E18CD9-A3D9-465A-8265-40ACE645DC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E18CD9-A3D9-465A-8265-40ACE645DC2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
