@@ -1,4 +1,6 @@
-﻿namespace Exo_StructuresMethodes_ShowInventory
+﻿using Exo_StructuresMethodes_ShowInventory.Struct;
+
+namespace Exo_StructuresMethodes_ShowInventory
 {
     internal class Program
     {
@@ -15,6 +17,13 @@
                     doit avoir une méthode : "Loot" qui retourne un booléen si on récupère quelque chose et prend en paramètre un objet "Chest". La méthode doit vider le Chest une fois ajouter la quantité dans l'inventaire.
  
                     doit avoir une méthode : "ShowInventory" qui affiche le contenu de l'inventaire.*/
+
+            Chest chest = new Chest();
+            Player player = new Player() { inventory = new Dictionary<string, int>()}; // on initilise pas les valeurs, ce sera dans le constructeur
+
+            player.Loot(chest);
+            player.ShowInventory();
+
         }
     }
 }
