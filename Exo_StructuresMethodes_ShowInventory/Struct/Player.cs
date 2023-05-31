@@ -16,7 +16,8 @@ namespace Exo_StructuresMethodes_ShowInventory.Struct
     {
         public Dictionary<string, int> inventory;
 
-        public bool Loot(in Chest chest) //le mot-clé "in" protège en lecture seule, le paramètre
+        public bool Loot(ref Chest chest) //le mot-clé "in" protège en lecture seule, le paramètre
+            //Attention : les mots-clés ref et in ne peuvent cohabiter...
         {   
             //ma tentative de solution
            /*inventory.Add(chest.type, chest.quantity);

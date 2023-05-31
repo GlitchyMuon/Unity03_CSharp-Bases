@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo_after03_bonus", "Exo_af
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo03", "Exo03\Exo03.csproj", "{2C77A798-D04C-402B-BD8C-94BBD509404C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Operateurs", "Demo_\Demo_Operateurs.csproj", "{5B3FA2E3-E338-4665-80B0-E94A8DFF0D90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Operateurs", "Demo_Operateurs\Demo_Operateurs.csproj", "{5B3FA2E3-E338-4665-80B0-E94A8DFF0D90}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opérateurs_Exo01", "Opérateurs_Exo1\Opérateurs_Exo01.csproj", "{B4025215-6185-445F-BD05-D0852D13C9A6}"
 EndProject
@@ -53,7 +53,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Dictionary", "Demo_Dic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Structure", "Demo_Structure\Demo_Structure.csproj", "{E1C7A8BE-4AE7-4706-8F37-3E8603DFB8D6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo_Structure", "ConsoleApp1\Exo_Structure.csproj", "{673AD136-B462-4D1A-92D7-99DE918323B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo_Structure", "Exo_Structure\Exo_Structure.csproj", "{673AD136-B462-4D1A-92D7-99DE918323B4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo2_Structure", "Exo2_Structure\Exo2_Structure.csproj", "{A9338806-F60A-453D-867C-02B419B3CA89}"
 EndProject
